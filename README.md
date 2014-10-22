@@ -1,8 +1,6 @@
 for1sAlt
 ========
 
-Scratch:
-
 Rather than using the "forward" Scratch Block, this program uses the "motor" set Block.  
 
 ### Project Information
