@@ -1,6 +1,8 @@
 for1sAlt
 ========
 
+Scratch:
+
 Rather than using the "forward" Scratch Block, this program uses the "motor" set Block.  
 
 ### Project Information
@@ -8,7 +10,7 @@ Rather than using the "forward" Scratch Block, this program uses the "motor" set
 Type              : Scratch
 Version           : 01.0
 Author            : myke predko
-Firmware          : 41
+Firmware          : 42
 ```
 
 ### Release History:
